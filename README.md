@@ -1,2 +1,2 @@
 # ML-challenge
-Machine Learning course programming-challenge at KTH
+Machine Learning course classification programming-challenge at KTH. 
