@@ -1,5 +1,5 @@
 # ML-challenge
-Machine Learning course classification programming-challenge at KTH. 
+Machine Learning course classification-challenge at KTH. 
 
 # Task
 Classifying an unknown dataset.
